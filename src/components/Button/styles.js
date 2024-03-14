@@ -27,4 +27,8 @@ export const ButtonContainer = styled.button`
             border-radius: 22px;
         }
     `}
+    
+    &:hover {
+        cursor: pointer;
+    }
 `
